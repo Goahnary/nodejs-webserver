@@ -10,3 +10,9 @@ nodejs server.js
 ```
 ~$ curl localhost:8000
 ```
+Result:
+```
+{
+  "text":"Hello, world!"
+}
+```
