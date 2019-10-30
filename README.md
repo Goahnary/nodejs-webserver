@@ -23,4 +23,5 @@ Result:
 </html>
 ```
 This will serve any html file from the html directory. Including correcting '/' --> '/index.html'.
+
 We are limited to just HTML files right now. Images don't work yet.
