@@ -12,7 +12,13 @@ nodejs server.js
 ```
 Result:
 ```
-{
-  "text":"Hello, world!"
-}
+!DOCTYPE html>
+<html>
+<head>
+	<title>NodeJS Website</title>
+</head>
+<body>
+	<h1>Hello, world!</h1>
+</body>
+</html>
 ```
